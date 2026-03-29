@@ -31,3 +31,12 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+
+## Retrospective Checklist
+- [ ] Retrospective scheduled within one week of sprint/release/incident
+- [ ] All team members invited and informed of format
+- [ ] "What went well" items documented
+- [ ] "What could be improved" items documented
+- [ ] 2–3 prioritized action items identified with owners and due dates
+- [ ] Previous retrospective action items reviewed for follow-up
+- [ ] Action items added to project backlog or issue tracker
